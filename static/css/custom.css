@@ -1,0 +1,13 @@
+body{
+    min-height: 100vh;
+    /* background: url("https://images.pexels.com/photos/87812/pexels-photo-87812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); */
+    background: rgb(158,60,255);
+    background: linear-gradient(0deg, rgba(158,60,255,0.835171568627451) 0%, rgba(173,96,249,0) 100%);
+}
+
+.container{
+    min-height: 100%;
+    padding-bottom: 1rem;
+    background: #ffffff52;
+}
+.material-icons { vertical-align: inherit; }
